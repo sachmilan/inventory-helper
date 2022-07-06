@@ -28,7 +28,7 @@ Sachmilan Singh
 
 Using this Inventory Helper application is really easy. All tou have to type in the the command line the information you want to include and it will make the databse for you.
 
-<!-- (https://drive.google.com/file/d/1s1IxsM6wK6wFX4sR15wjA6mSdkIOh6HT/view?usp=sharing) -->
+https://drive.google.com/file/d/1ZS7mSt_kLBuHWwkFaVCJralHgRF3CCvC/view?usp=sharing
 
 Watch this video to learn more about the Inventory Helper application.
 
